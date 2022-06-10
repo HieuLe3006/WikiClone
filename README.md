@@ -1,2 +1,1 @@
-# HieuLe3006
-CS 50
+# Wiki-Clone
